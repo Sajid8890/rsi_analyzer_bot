@@ -1,0 +1,9 @@
+Flask
+pandas
+pandas-ta
+requests
+websocket-client
+python-binance
+plyer
+gunicorn
+numpy
