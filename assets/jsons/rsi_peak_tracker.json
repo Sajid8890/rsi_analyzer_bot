@@ -1,0 +1,66 @@
+{
+    "BDXNUSDT": {
+        "peak_price": 0.11986,
+        "timestamp": 1763090895.8606927
+    },
+    "EVAAUSDT": {
+        "peak_price": 2.268,
+        "timestamp": 1763090904.1505518
+    },
+    "TACUSDT": {
+        "peak_price": 0.006251,
+        "timestamp": 1763118968.192237
+    },
+    "SOONUSDT": {
+        "peak_price": 5.3427,
+        "timestamp": 1763151084.7068298
+    },
+    "TAGUSDT": {
+        "peak_price": 0.0006378,
+        "timestamp": 1763151009.2377136
+    },
+    "BABYUSDT": {
+        "peak_price": 0.03216,
+        "timestamp": 1763169562.7693222
+    },
+    "ZECUSDT": {
+        "peak_price": 717.45,
+        "timestamp": 1763188313.2586205
+    },
+    "DASHUSDT": {
+        "peak_price": 90.63,
+        "timestamp": 1763177051.5429292
+    },
+    "ALCHUSDT": {
+        "peak_price": 0.16143,
+        "timestamp": 1763169509.430699
+    },
+    "ZENUSDT": {
+        "peak_price": 14.762,
+        "timestamp": 1763170492.5469656
+    },
+    "MYXUSDT": {
+        "peak_price": 3.36,
+        "timestamp": 1763181162.3112404
+    },
+    "STRKUSDT": {
+        "peak_price": 0.1875,
+        "timestamp": 1763169807.0345962
+    },
+    "ZKUSDT": {
+        "peak_price": 0.05526,
+        "timestamp": 1763170704.2174723
+    },
+    "LAUSDT": {
+        "peak_price": 0.4543,
+        "timestamp": 1763170494.4577625
+    },
+    "CROSSUSDT": {
+        "peak_price": 0.14704,
+        "timestamp": 1763208213.8123884
+    },
+    "BANANAS31USDT": {
+        "peak_price": 0.005226,
+        "timestamp": 1763388263.492832
+    }
+}
