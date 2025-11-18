@@ -1,6 +1,6 @@
 Flask
 pandas
-pandas-ta
+pandas_ta
 requests
 websocket-client
 python-binance
